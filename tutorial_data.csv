@@ -1,0 +1,11 @@
+username,gender,age,documentary movies,action movies,scifi movies,comedy movies,horror movies
+AS,female,20,5,19,21,25,12 
+DF,female,30,4,33,9,30,5
+GH,female,25,14,12,11,4,3
+JK,female,19,10,50,25,3,6
+LQ,female,19,0,9,7,12,6
+WE,male,21,5,12,17,10,8
+RT,male,32,5,38,5,7,15
+YU,male,22,9,17,13,20,11
+MJ,male,26,6,21,21,7,7
+IP,male,18,11,18,16,9,20
